@@ -1,0 +1,1 @@
+**This study focuses on analyzing restaurant income and merging it using a simple machine learning strategy implemented with Python and scikit-learn libraries. Excel serves as the primary database for the study.**
